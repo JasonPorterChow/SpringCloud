@@ -1,2 +1,2 @@
 # SpringCloud
-SpringCloud 配置
+SpringCloud配置文件
